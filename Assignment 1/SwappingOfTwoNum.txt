@@ -1,0 +1,23 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int num1, num2, temp;
+        Console.Write("Input the First Number : ");
+        num1 = int.Parse(Console.ReadLine());
+        Console.Write("\nInput the Second Number : ");
+        num2 = int.Parse(Console.ReadLine());
+        temp = num1;
+        num1 = num2;
+        num2 = temp;
+        Console.Write("\nAfter Swapping : ");
+        Console.Write("\nFirst Number : "+num1);
+        Console.Write("\nSecond Number : "+num2);
+        Console.ReadKey();
+    }
+}

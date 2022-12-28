@@ -1,0 +1,39 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        int stud1,stud2,stud3,stud4,stud5;
+        Console.WriteLine("Enter marks of student1");
+        stud1=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter marks of student2");
+        stud2=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter marks of student3");
+        stud3=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter marks of student4");
+        stud4=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter marks of student5");
+        stud5=Convert.ToInt32(Console.ReadLine());
+        if((stud1>stud2)&& (stud1>stud3)&& (stud1>stud4)&&(stud1>stud5)){
+            Console.WriteLine("Student 1 has highest average of"+ stud1);
+        }
+        if((stud2>stud1)&& (stud2>stud3)&& (stud2>stud4)&&(stud2>stud5)){
+            Console.WriteLine("Student 2 has highest average of"+ stud2);
+        }
+        if((stud3>stud1)&& (stud3>stud2)&& (stud3>stud4)&&(stud3>stud5)){
+            Console.WriteLine("Student 3 has highest average of"+ stud2);
+        }
+        if((stud4>stud1)&& (stud4>stud2)&& (stud4>stud3)&&(stud4>stud5)){
+            Console.WriteLine("Student 4 has highest average of"+ stud4);
+        }
+        if((stud5>stud1)&& (stud5>stud2)&& (stud5>stud3)&&(stud5>stud4)){
+            Console.WriteLine("Student 5 has highest average of"+ stud5);
+        }
+        Console.ReadKey();
+    }
+}

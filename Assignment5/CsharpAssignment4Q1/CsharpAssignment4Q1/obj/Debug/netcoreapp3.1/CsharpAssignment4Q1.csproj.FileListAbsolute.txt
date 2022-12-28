@@ -1,0 +1,14 @@
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.exe
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.deps.json
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.runtimeconfig.json
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.runtimeconfig.dev.json
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.dll
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\bin\Debug\netcoreapp3.1\CsharpAssignment4Q1.pdb
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.AssemblyInfo.cs
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.dll
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.pdb
+C:\Users\VGANESHM\source\repos\CsharpAssignment4Q1\CsharpAssignment4Q1\obj\Debug\netcoreapp3.1\CsharpAssignment4Q1.genruntimeconfig.cache

@@ -1,0 +1,53 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        int a,b,res;
+    
+        Console.WriteLine("Enter 1st number");
+        a=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter 2nd number");
+        b=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter your choice(1.Addition 2.Substraction 3.Multiplication 4.Division)");
+        string op =Console.ReadLine();
+       
+        switch(op){
+            case "1":
+            {
+                res=a+b;
+                Console.WriteLine("Addition: " + res);
+                break;
+            }
+            case "2":
+            {
+                res=a-b;
+                Console.WriteLine("Substraction:"+ res);
+                break;
+            }
+            case "3":
+            {
+                res=a*b;
+                Console.WriteLine("Multiplication:"+res);
+                break;
+            }
+            case "4":
+            {
+                res=a/b;
+                Console.WriteLine("Division:"+res);
+                break;
+            }
+            default:
+            {
+                Console.WriteLine("Invalid Choice");
+                break;
+            }
+                
+        }
+        
+    }
+}

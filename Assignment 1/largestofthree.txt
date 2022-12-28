@@ -1,0 +1,35 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+
+using System;
+
+public class SumOfNumbers
+{
+    public static void Main(string[] args)
+    {
+            int num1, num2, num3;
+            Console.WriteLine("Enter three numbers");
+            
+            num1 = Convert.ToInt32(Console.ReadLine());
+            
+            num2 = Convert.ToInt32(Console.ReadLine());
+           
+            num3 = Convert.ToInt32(Console.ReadLine());
+ 
+            
+            if (num1 > num2 && num1 > num3)
+            {
+                 
+                Console.Write("Number 1 is greater.");
+            }
+            else if(num2>num1 && num2>num3)
+            {
+            Console.Write("Number 2 is greater");
+            }
+            else{
+                Console.Write("Number 3 is greater");
+            }
+            
+            Console.ReadKey();
+    }
+}

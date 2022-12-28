@@ -1,0 +1,14 @@
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.AssemblyInfo.cs
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.exe
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.deps.json
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.runtimeconfig.json
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.runtimeconfig.dev.json
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.dll
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\bin\Debug\netcoreapp3.1\CSharpOOPAssignment2.pdb
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.dll
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.pdb
+C:\Users\VGANESHM\source\repos\CSharpOOPAssignment2\CSharpOOPAssignment2\obj\Debug\netcoreapp3.1\CSharpOOPAssignment2.genruntimeconfig.cache

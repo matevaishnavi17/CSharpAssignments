@@ -1,0 +1,50 @@
+
+
+using System;
+enum bookType{
+    Magazine=1,
+    Novel,
+    ReferneceBook,
+    Miscellaneous
+}
+
+struct book{
+    public int book_id;
+    public bookType type;
+    public string title;
+    public int price;
+    
+    public void getDetails(){
+        Console.WriteLine("Eneter Book Id:");
+        book_id=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter Book Title:");
+        title=Console.ReadLine();
+        Console.WriteLine("Enter Book Price:");
+        price=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter BookType(1.Magazine 2.Novel 3.ReferenceBook 4.Miscellaneous");
+        int bt=Convert.ToInt32(Console.ReadLine());
+        bookType t =(bookType)(bt);
+        type =t;
+        
+    }
+    
+    public void displayDetails(){
+        Console.WriteLine("Title:"+title);
+        Console.WriteLine("Book Id:"+book_id);
+        Console.WriteLine("Price:"+price);
+        Console.WriteLine("BookType:"+type);
+    }
+}
+class Test{
+    public static void  Main(String [] args){
+        book b=new book();
+        b.getDetails();
+        b.displayDetails();
+    }
+    
+}
+
+    
+
+
+
