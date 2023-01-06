@@ -1,0 +1,14 @@
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.exe
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.deps.json
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.runtimeconfig.json
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.runtimeconfig.dev.json
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.dll
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\bin\Debug\netcoreapp3.1\CSharpAssignmnet7.pdb
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.AssemblyInfo.cs
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.dll
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.pdb
+C:\Users\VGANESHM\source\repos\CSharpAssignmnet7\CSharpAssignmnet7\obj\Debug\netcoreapp3.1\CSharpAssignmnet7.genruntimeconfig.cache
